@@ -4,20 +4,18 @@ The search for anomalies in heart data
 
 ## Getting Started
 
-This project is a python notebook. To start navigate to https://nbviewer.jupyter.org/github/ConnectedReasoning/heartstudy/blob/master/heartstudy.ipynb
+This project runs on a python notebook. To start navigate to https://nbviewer.jupyter.org/github/ConnectedReasoning/heartstudy/blob/master/heartstudy.ipynb
 
 
 ## Built With
 
-* [Jupyter](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Anaconda](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Jupyter](https://jupyter.org/) - Platform for creating and sharing documents
+* [Anaconda](https://www.anaconda.com//) - The most popular python data science platform
+* [Tensorflow](https://www.tensorflow.org/) -  An open source software library for high performance numerical computation
 
 ## Authors
 
-* **Manuel Hernandez** - *Initial work* - [ConnectedReasoning](https://www.connectedreasoning.com)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Manuel Hernandez** - *Initial work* - [ConnectedReasoning](https://www.connectedreasoning.com).
 
 ## License
 
